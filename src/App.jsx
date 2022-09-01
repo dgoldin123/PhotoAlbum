@@ -1,6 +1,6 @@
 import React from "react";
-import { Typography, AppBar, Button, ButtonGroup, CameraIcon, Card, CardActions, CardContent, CardMedia, 
-    CssBaseline, Grid, Stack, Box, Toolbar, Container, Link } from "@material-ui/core"; 
+import { Typography, AppBar, Button, Card, CardActions, CardContent, CardMedia, 
+    CssBaseline, Grid, Toolbar, Container } from "@material-ui/core"; 
 import { PhotoCamera } from "@material-ui/icons";
 import { Fragment } from "react";
 import useStyles from "./styles";
